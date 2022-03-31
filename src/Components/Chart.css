@@ -1,0 +1,14 @@
+.chart__container {
+}
+
+.chart__container > h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.chart {
+  height: 400px;
+}
